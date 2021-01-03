@@ -1,5 +1,5 @@
 #include <iostream>
-#include <cmath>
+
 using namespace std;
 int arr[10];
 int main() {
