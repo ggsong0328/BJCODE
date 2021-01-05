@@ -16,10 +16,10 @@ int main() {
 	cout << sum(a) << endl;
 }
 
-long long sum(std::vector<int>& a) {
-	long long ans = 0;
+long long sum(vector<int>& a) {
+	int total = 0;
 	for (auto& e : a) {
-		ans += e;
+		total += e;
 	}
-	return ans;
+	return total;
 }
