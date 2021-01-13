@@ -14,5 +14,8 @@ int main() {
 		else
 			cout << (N % H) * 100 + (N / H)+1 << endl;
 	}
+<<<<<<< HEAD
 	return 0;
+=======
+>>>>>>> 6657bb1 (BOJ - 10250)
 }
