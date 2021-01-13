@@ -21,4 +21,5 @@ int main() {
 		numer = i - t;
 		denom = 1 + t;
 	}
+	cout << numer << "/" << denom << endl;
 }
